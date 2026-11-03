@@ -78,7 +78,7 @@ Building and experimenting with machine learning models using Python and real-wo
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mfarshan/
+- 💼 LinkedIn: [https://www.linkedin.com/in/mfarshan/](https://www.linkedin.com/in/mfarshan/)
 - 📧 Email: mfarshan611@gmail.com
 
 ---
