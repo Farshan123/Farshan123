@@ -100,7 +100,7 @@ Apply analytical thinking to understand problems and explore solutions.
 
 <div align="center">
 
-<a href="YOUR-LINKEDIN-PROFILE-URL">
+<a href="https://www.linkedin.com/in/mfarshan/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
